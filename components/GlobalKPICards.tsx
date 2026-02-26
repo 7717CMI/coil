@@ -274,6 +274,11 @@ export function GlobalKPICards() {
             </div>
           </div>
         </div>
+
+        {/* Disclaimer Note */}
+        <p className="mt-2 text-[10px] text-gray-500 italic">
+          NOTE: All the data in the dashboard is demo data. No real-world data is related to this.
+        </p>
       </div>
     </div>
   )
