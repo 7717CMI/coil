@@ -1,28 +1,67 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Offering": {
+      "Products and Equipment": {
+        "Coiled Tubing Strings and Pipes": {},
+        "Coiled Tubing Units": {},
+        "Reels": {},
+        "Injector Heads": {},
+        "Well Control and Pressure Control Equipment": {},
+        "Downhole Tools & Accessories": {},
+        "Pumping, Nitrogen and Fluid Support Equipment": {},
+        "Control, Monitoring & Instrumentation Systems": {}
+      },
+      "Services": {
+        "Well Intervention Services": {},
+        "Stimulation Support Services": {},
+        "Logging & Conveyance Services": {},
+        "Fishing, Milling & Remedial Services": {},
+        "Completion & Workover Support Services": {},
+        "Coiled Tubing Drilling Services": {},
+        "Plug & Abandonment Support Services": {}
+      }
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Operational Task": {
+      "Circulation": {},
+      "Pumping": {},
+      "Chemical Injection": {},
+      "Nitrogen Lift and Nitrogen Pumping": {},
+      "Logging Conveyance": {},
+      "Perforation Conveyance": {},
+      "Mechanical Manipulation": {},
+      "Fishing and Milling": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Material Type": {
+      "Carbon Steel": {},
+      "Low-Alloy and High-Strength Steel": {},
+      "Stainless Steel": {},
+      "Duplex and Super Duplex Alloys": {},
+      "Nickel-Based and Corrosion-Resistant Alloys": {}
+    },
+    "By Tubing Outer Diameter": {
+      "Up to 1.5 inch": {},
+      "Above 1.5 to 2.0 inch": {},
+      "Above 2.0 to 2.375 inch": {},
+      "Above 2.375 inch": {}
+    },
+    "By Application": {
+      "Onshore": {},
+      "Offshore": {}
+    },
+    "By Well Type": {
+      "Oil Wells": {},
+      "Gas Wells": {},
+      "Injection Wells": {},
+      "Horizontal and Deviated Wells": {},
+      "Mature Wells": {},
+      "HPHT Wells": {}
     },
     "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+      "NOCs": {},
+      "IOCs and Independent E&P Companies": {},
+      "Oilfield Service Companies": {},
+      "Drilling Contractors": {},
+      "Geothermal Operators": {}
     },
     "By Region": {
       "North America": {
